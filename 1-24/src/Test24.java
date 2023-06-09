@@ -26,7 +26,10 @@ public class Test24 {
 			throw new NumberFormatException();
             }catch(NumberFormatException e) {
     			System.out.println("数字フォーマットエラーが発生しました");
-    		}
+    		}finally {
+                System.out.println("例外処理は終了です"); 
+            }
+        
 
 		
 		System.out.println("問３");
