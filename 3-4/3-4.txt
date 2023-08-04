@@ -16,6 +16,6 @@
 ⇒　アプリケーションビジネスルール(システムがゆえに発生するビジネスルールの処理を記載する)
 
 
-④何らかのロジカル的な処理を行うプログラミングをしようとする時、コーディングするのに正しいのはどれになりますか？(controller、service、view、seviceimpl、entity、dao、daoimpl)
+④何らかのロジカル的な処理を行うプログラミングをしようとする時、コーディングするのに正しいのはどれになりますか？(controller、service、view、seviceimpl、entity、×dao、daoimpl)
 
-⇒ dao
+⇒ service
